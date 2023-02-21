@@ -1,0 +1,12 @@
+{
+  "name": "com.elicxir.soundloader",
+  "version": "1.0.0",
+  "displayName": "Sound Loader",
+  "description": "Package dealing with directions for 2D games",
+  "author": {
+    "name": "ELICXIR"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.1"
+  }
+}
